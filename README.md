@@ -8,7 +8,7 @@ Please check out [our Wiki](https://github.com/VarianAPIs/Varian-Code-Samples/wi
 
 ## Eclipse Scripting API Samples
 
-- [Single File Plugin Scripts](tree/master/Eclipse%20Scripting%20API/plugins)
+- [Single File Plugin Scripts](Eclipse%20Scripting%20API/plugins)
   - DVH Lookup Tool
   - 3D Mesh Export
   - Web DVH Plot Creation
