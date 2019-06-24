@@ -13,7 +13,7 @@ Please check out [our Wiki](https://github.com/VarianAPIs/Varian-Code-Samples/wi
   - 3D Mesh Export
   - Web DVH Plot Creation
   - DICOM Collection C-MOVE
-- [Plugin and Standalone Projects](tree/master/Eclipse%20Scripting%20API/projects)
+- [Plugin and Standalone Projects](Eclipse%20Scripting%20API/projects)
   - Data Mining
   - Batch DVH Export
   - Plan Quality Metrics
@@ -49,14 +49,14 @@ Please check out [our Wiki](https://github.com/VarianAPIs/Varian-Code-Samples/wi
   - Automated Planning Demo (RapidPlan + Verification Plan)
   - EUD Script
 - [2016 Dev Workshop](webinars%20%26%20workshops/Developer%20Workshop%202016)
-  - [See here for description of coursework](https://github.com/VarianAPIs/samples/blob/master/webinars%20%26%20workshops/Developer%20Workshop%202016/160728%20ESAPI%20Track%20Details.pdf)
+  - [See here for description of coursework](webinars%20%26%20workshops/Developer%20Workshop%202016/160728%20ESAPI%20Track%20Details.pdf)
 - [2018 Developer Workshop](webinars%20%26%20workshops/Developer%20Workshop%202018)
   - Accessing ARIA with VAIS
   - ApplicationRoleSample (Direct Aria DB Access)
   - Aria Access Sample
-  - [DICOM_Communication_101](../../../DICOM_Communication_101)
+  - [DICOM_Communication_101](https://github.com/VarianAPIs/DICOM_Communication_101)
   - ESAPI Introduction
   - ESAPIX-Demos
-  - [Velocity Engine](../../../VelocityEngine)
-  - [PyESAPI](../../../PyESAPI/tree/master/examples/DeveloperWorkshop2018)
+  - [Velocity Engine](https://github.com/VarianAPIs/VelocityEngine)
+  - [PyESAPI](https://github.com/VarianAPIs/PyESAPI/tree/master/examples/DeveloperWorkshop2018)
   - Automated Planning with MCO
